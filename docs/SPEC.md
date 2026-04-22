@@ -35,6 +35,8 @@ Per-repo e.g. `.git-steward.yaml` — conventional commit types, branch prefixes
 
 Optional verbose path: every operation explains *what* happened and *why* a rule exists (links to short docs).
 
+**Tonal / personality layer** (curated theme packs, verbosity, quips, long-op tips) is specified in [THEMES_AND_ONBOARDING.md](./THEMES_AND_ONBOARDING.md) — local-first; optional account for sync; `--json` / agents skip persona copy.
+
 ## Commercial / funnel (intention: breadcrumb, not core business)
 
 - Free: OSS / single seat, **commit footer** optional.
@@ -61,3 +63,4 @@ Internal scripts and `git-ops` conventions: [k-dot-greyz/dev-master](https://git
 - [ ] Rename / namespace for PyPI/ Homebrew to avoid “GitButler” collision in marketing copy.
 - [ ] fold `guided-pr-flow` as `git-steward pr flow` (or keep standalone script).
 - [ ] Python / Typer + tests + JSON output; MCP; GitHub Action templates; optional hosted dashboard.
+- [ ] Theme / personality loader + tip packs — see [THEMES_AND_ONBOARDING.md](./THEMES_AND_ONBOARDING.md).

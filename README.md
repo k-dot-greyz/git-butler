@@ -10,6 +10,7 @@ Breadcrumb / promo lane for a future **`git-steward`**: deterministic **git + Gi
 |------|------|
 | [scripts/guided-pr-flow.sh](scripts/guided-pr-flow.sh) | **Runnable:** confirm `Repository` + **branch** → `git push` → `gh pr create --fill --draft` (or use existing PR) → success line + **PR link** |
 | [docs/SPEC.md](docs/SPEC.md) | Product / technical spec (future Typer/MCP/Actions) |
+| [docs/THEMES_AND_ONBOARDING.md](docs/THEMES_AND_ONBOARDING.md) | **Design:** theme/personality YAML, local vs account, onboarding, tips & loading behavior |
 | [docs/GUIDED_FLOW.md](docs/GUIDED_FLOW.md) | UX + env vars + upsell-ladder ideas |
 | [docs/ARCHIVE_CONVERSATION_LOG_2026-04-22.md](docs/ARCHIVE_CONVERSATION_LOG_2026-04-22.md) | Design archive (session transcript) |
 
