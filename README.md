@@ -27,7 +27,7 @@ SKIP_CONFIRM=1 ./scripts/guided-pr-flow.sh   # CI / agents
 
 ## Origin
 
-Spec and first script started in [dev-master](https://github.com/k-dot-greyz/dev-master) under `dex/01-templates/git-butler/`; this repository is the **dedicated** home for the public OSS track.
+Spec and first script started in [dev-master](https://github.com/k-dot-greyz/dev-master); it now ships as the **`dex/09-repos/git-butler`** submodule (replacing the old `dex/01-templates/git-butler/` doc mirror). This repository is the **dedicated** home for the public OSS track.
 
 ## License
 

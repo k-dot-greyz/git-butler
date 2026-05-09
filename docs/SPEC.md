@@ -56,7 +56,7 @@ Optional verbose path: every operation explains *what* happened and *why* a rule
 
 ## See also (monorepo of origin)
 
-Internal scripts and `git-ops` conventions: [k-dot-greyz/dev-master](https://github.com/k-dot-greyz/dev-master) (template copy lived under `dex/01-templates/git-butler/`).
+Internal scripts and `git-ops` conventions: [k-dot-greyz/dev-master](https://github.com/k-dot-greyz/dev-master) (use the `dex/09-repos/git-butler` submodule; the former `dex/01-templates/git-butler/` mirror is retired).
 
 ## Open items
 
