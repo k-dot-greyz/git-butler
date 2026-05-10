@@ -1,0 +1,27 @@
+# git-steward policy — this repo's own config
+# See docs/SPEC.md §Policy file for full field reference (EPIC 2)
+
+commit_types:
+  - feat
+  - fix
+  - docs
+  - chore
+  - refactor
+  - test
+  - ci
+  - perf
+
+branch_prefixes:
+  - feat/
+  - fix/
+  - chore/
+  - docs/
+  - ci/
+
+protected_branches:
+  - main
+
+submodule_policy:
+  require_pinned: true
+  allowed_branches:
+    - main
