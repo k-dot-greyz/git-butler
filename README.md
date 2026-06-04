@@ -29,6 +29,10 @@ SKIP_CONFIRM=1 ./scripts/guided-pr-flow.sh   # CI / agents
 
 Spec and first script started in [dev-master](https://github.com/k-dot-greyz/dev-master); it now ships as the **`dex/09-repos/git-butler`** submodule (replacing the old `dex/01-templates/git-butler/` doc mirror). This repository is the **dedicated** home for the public OSS track.
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the fork-and-PR workflow, boundary rules (public OSS vs dev-master internal docs), and architecture guidelines.
+
 ## License
 
 Apache-2.0 — see [LICENSE](LICENSE).
